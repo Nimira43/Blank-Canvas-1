@@ -1,0 +1,290 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display&family=Caveat&family=Dosis&family=Fontdiner+Swanky&family=IBM+Plex+Sans&family=Merienda&family=Nosifer&family=Rubik+Maze&family=Shantell+Sans&family=Signika+Negative&family=Six+Caps&family=Stick+No+Bills&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Contrail+One&family=Ewert&family=Faster+One&family=Fredericka+the+Great&family=Inspiration&family=Nabla&family=Petit+Formal+Script&family=Sancreek&family=Smokum&family=Stint+Ultra+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akronim&family=Architects+Daughter&family=Bangers&family=Black+Ops+One&family=Bruno+Ace+SC&family=Bungee+Spice&family=Cabin+Sketch&family=Caveat&family=Creepster&family=Dancing+Script&family=East+Sea+Dokdo&family=Eater&family=Ewert&family=Fredericka+the+Great&family=Great+Vibes&family=Henny+Penny&family=Homemade+Apple&family=Instrument+Serif&family=Italianno&family=Jacques+Francois+Shadow&family=Kristi&family=Libre+Barcode+39+Text&family=Liu+Jian+Mao+Cao&family=Londrina+Outline&family=Love+Ya+Like+A+Sister&family=Loved+by+the+King&family=MedievalSharp&family=Monoton&family=Monsieur+La+Doulaise&family=Mountains+of+Christmas&family=Nabla&family=Nanum+Gothic&family=Nunito+Sans&family=Orbitron&family=Pirata+One&family=Press+Start+2P&family=Rajdhani&family=Rampart+One&family=Rubik+80s+Fade&family=Rubik+Burned&family=Rubik+Iso&family=Rubik+Maze&family=Rubik+Microbe&family=Rubik+Moonrocks&family=Rubik+Pixels&family=Rubik+Puddles&family=Rubik+Storm&family=Rubik+Vinyl&family=Rye&family=Sacramento&family=Satisfy&family=Shadows+Into+Light&family=Slackey&family=Tilt+Prism&family=UnifrakturMaguntia&family=Yanone+Kaffeesatz&display=swap');
+
+
+.font1 {
+    font-family: 'Caveat', sans-serif;
+}
+.font2 {
+    font-family: 'Dosis', sans-serif;
+}
+.font3 {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+.font4 {
+    font-family: 'Merienda', sans-serif;
+}
+.font5 {
+    font-family: 'Nosifer', sans-serif;
+}
+.font6 {
+    font-family: 'Rubik Maze', sans-serif;
+}
+.font7 {
+    font-family: 'Shantell Sans', sans-serif;
+}
+.font8 {
+    font-family: 'Signika Negative', sans-serif;
+}
+.font9 {
+    font-family: 'Big Shoulders Display', sans-serif;
+}
+.font10 {
+    font-family: 'Six Caps', sans-serif;
+}
+.font11 {
+    font-family: 'Stick No Bills', sans-serif;
+}
+.font12 {
+    font-family: 'Contrail One', sans-serif;
+}
+.font13 {
+    font-family: 'Ewert', sans-serif;
+}
+.font14 {
+    font-family: 'Faster One', sans-serif;
+}
+.font15 {
+    font-family: 'Fredericka the Great', sans-serif;
+}
+.font16 {
+    font-family: 'Inspiration', sans-serif;
+}
+.font17 {
+    font-family: 'Nabla', sans-serif;
+}
+.font18 {
+    font-family: 'Petit Formal Script', sans-serif;
+}
+.font19 {
+    font-family: 'Sancreek ', sans-serif;
+}
+.font20 {
+    font-family: 'Smokum', sans-serif;
+}
+.font21 {
+    font-family: 'Stint Ultra Condensed', sans-serif;
+}
+
+/*
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+font {
+    font-family: 'Caveat', sans-serif;
+}
+*/
