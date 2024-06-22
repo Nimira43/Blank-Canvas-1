@@ -45,6 +45,8 @@ h1, h2 {
     font-family: 'Explora', cursive;
     font-weight: bolder;
     letter-spacing: 3px;
+    display: flex;
+    align-self: center;
 }
 
 .navbar .logo img {
@@ -124,4 +126,19 @@ h1, h2 {
 
 .box i {
     margin-right: 10px;
+}
+
+@media (max-width: 768px) {
+    .navbar .logo img {
+        display: none;
+    }
+    .header .container {
+        flex-direction: column;
+        padding-top: 20px;
+        text-align: center;
+    }
+    .boxes .container {
+        display: block;
+        text-align: center;
+    }
 }
