@@ -37,10 +37,22 @@ h1, h2 {
 }
 
 .navbar .logo {
-    font-size: 35px;
+    display: flex;
+}
+
+.navbar .logo span {
+    font-size: 40px;
     font-family: 'Explora', cursive;
     font-weight: bolder;
     letter-spacing: 3px;
+}
+
+.navbar .logo img {
+    display: flex;
+    align-self: center;
+    width: 50px;
+    margin-right: 10px;
+    
 }
 
 .navbar .container {
@@ -72,8 +84,44 @@ h1, h2 {
 .header {
     min-height: 400px; 
 }
+.header .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 40px;
+}
 
-.header .container h1 {
+
+.header h1 {
     font-size: 3rem;
     font-weight: 200;
+    line-height: 1.2;
+}
+
+.header img {
+    max-width: 400px;
+}
+
+.boxes .container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.box {
+    flex: 1;
+    background-color: #111;
+    color: #ff4500;
+    margin: 20px 10px;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.8);
+}
+
+.box:nth-child(2) {
+    background-color: #ff4500;
+    color: #111;    
+}
+
+.box i {
+    margin-right: 10px;
 }
