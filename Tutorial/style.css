@@ -7,28 +7,52 @@
 }
 
 body {
-    background-color: navy;
+    background-color: #232323;
+}
+
+.flex-container {
+
+    /* flex-direction: column; */
+    height: 500px;
+    display: flex;
+    background-color: #565656;
+    /* justify-content: space-between;  */
+    /* justify-content: space-around;  */
+    /* justify-content: space-evenly;  */
+    /* justify-content: end;  */
+    /* justify-content: start;  */
+    justify-content: center; 
+    align-items: center;
 }
 
 .item {
     width: 100px;
     height: 100px;
+    margin: 10px;
 }
 
 .item-1 {
     font-family: 'Comme', sans-serif;
     background-color: tan;
     color: seagreen;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
 }
+
 .item-2 {
     font-family: 'Truculenta', sans-serif;
     background-color: tomato;
     color:gainsboro ;
+    align-self: end;
 }
+
 .item-3 {
     font-family: 'Stint Ultra Condensed', sans-serif;
     background-color: lavender;
     color: seagreen;
+    align-self: start;
 }
 
 
