@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe:ital@0;1&family=Ballet:opsz@16..72&family=Beau+Rivage&family=Cherish&family=Comme:wght@100..900&family=Estonia&family=Explora&family=Luxurious+Script&family=Noto+Color+Emoji&family=Noto+Emoji:wght@300..700&family=Stint+Ultra+Condensed&family=Truculenta:opsz,wght@12..72,100..900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: navy;
+}
+
+.container {
+    font-size: 45px;
+}
+
+.comme {
+    font-family: 'Comme', sans-serif;
+    background-color: tan;
+    color: seagreen;
+    padding: 10px;
+}
+
+.truc {
+    font-family: 'Truculenta', sans-serif;
+    background-color: tomato;
+    color: gainsboro;
+    padding: 10px;
+}
+
+.stint {
+    font-family: 'Stint Ultra Condensed', sans-serif;
+    background-color: lavender;
+    color: seagreen;
+    padding: 10px;
+}
+
+.alumni {
+    background-color: seashell;
+    color: firebrick;
+    padding: 10px;
+    font-family: 'Alumni Sans Pinstrip', sans-serif;
+}
+.ballet {
+    background-color: papayawhip;
+    color: darkslategrey;
+    padding: 10px;
+    font-family: 'Ballet', cursive;
+}
+.beau {
+    background-color: bisque;
+    color: darkcyan;
+    padding: 10px;
+    font-family: 'Beau Rivage', cursive;
+}
+.cherish {
+    background-color: cornsilk;
+    color: darkolivegreen;
+    padding: 10px;
+    font-family: 'Cherish', cursive;
+}
+.estonia {
+    background-color: honeydew;
+    color: slateblue;
+    padding: 10px;
+    font-family: 'Estonia', cursive;
+}
+.explora {
+    background-color: palegoldenrod;
+    color: mediumvioletred;
+    padding: 10px;
+    font-family: 'Explora', cursive;
+}
+.lux {
+    background-color: antiquewhite;
+    color: limegreen;
+    padding: 10px;
+    font-family: 'Luxurious Script', cursive;
+}
+

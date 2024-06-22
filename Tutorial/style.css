@@ -9,3 +9,27 @@
 body {
     background-color: navy;
 }
+
+.item {
+    width: 100px;
+    height: 100px;
+}
+
+.item-1 {
+    font-family: 'Comme', sans-serif;
+    background-color: tan;
+    color: seagreen;
+}
+.item-2 {
+    font-family: 'Truculenta', sans-serif;
+    background-color: tomato;
+    color:gainsboro ;
+}
+.item-3 {
+    font-family: 'Stint Ultra Condensed', sans-serif;
+    background-color: lavender;
+    color: seagreen;
+}
+
+
+
